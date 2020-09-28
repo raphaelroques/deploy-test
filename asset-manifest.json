@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/raphaelroques/deploy-test/static/css/main.5f361e03.chunk.css",
-    "main.js": "/raphaelroques/deploy-test/static/js/main.f636b254.chunk.js",
-    "main.js.map": "/raphaelroques/deploy-test/static/js/main.f636b254.chunk.js.map",
-    "runtime-main.js": "/raphaelroques/deploy-test/static/js/runtime-main.05293cee.js",
-    "runtime-main.js.map": "/raphaelroques/deploy-test/static/js/runtime-main.05293cee.js.map",
-    "static/js/2.a3087b08.chunk.js": "/raphaelroques/deploy-test/static/js/2.a3087b08.chunk.js",
-    "static/js/2.a3087b08.chunk.js.map": "/raphaelroques/deploy-test/static/js/2.a3087b08.chunk.js.map",
-    "index.html": "/raphaelroques/deploy-test/index.html",
-    "precache-manifest.2f6ca76157bcb6c1ae18cd485a39917c.js": "/raphaelroques/deploy-test/precache-manifest.2f6ca76157bcb6c1ae18cd485a39917c.js",
-    "service-worker.js": "/raphaelroques/deploy-test/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/raphaelroques/deploy-test/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a3087b08.chunk.js.LICENSE.txt": "/raphaelroques/deploy-test/static/js/2.a3087b08.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/raphaelroques/deploy-test/static/media/logo.5d5d9eef.svg"
+    "main.css": "/deploy-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/deploy-test/static/js/main.907d5656.chunk.js",
+    "main.js.map": "/deploy-test/static/js/main.907d5656.chunk.js.map",
+    "runtime-main.js": "/deploy-test/static/js/runtime-main.f8b715c4.js",
+    "runtime-main.js.map": "/deploy-test/static/js/runtime-main.f8b715c4.js.map",
+    "static/js/2.a3087b08.chunk.js": "/deploy-test/static/js/2.a3087b08.chunk.js",
+    "static/js/2.a3087b08.chunk.js.map": "/deploy-test/static/js/2.a3087b08.chunk.js.map",
+    "index.html": "/deploy-test/index.html",
+    "precache-manifest.86fd9cc31db3599d2a81a07b931a0f73.js": "/deploy-test/precache-manifest.86fd9cc31db3599d2a81a07b931a0f73.js",
+    "service-worker.js": "/deploy-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/deploy-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a3087b08.chunk.js.LICENSE.txt": "/deploy-test/static/js/2.a3087b08.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/deploy-test/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.05293cee.js",
+    "static/js/runtime-main.f8b715c4.js",
     "static/js/2.a3087b08.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f636b254.chunk.js"
+    "static/js/main.907d5656.chunk.js"
   ]
 }
