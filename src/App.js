@@ -7,6 +7,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <h1>React deploy</h1>
+        <p>new test add content to the page !!! </p>
       </div>
     );
   }
